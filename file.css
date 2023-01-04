@@ -1,0 +1,25 @@
+img.stretchy {
+    width: 100%; /*Tells image to fit to width of parent container*/
+    }
+    .container {
+    width: 33%; /*Use this to control width of the parent container, hence the image*/
+    }
+    
+
+p {
+    font-family:'Roboto Mono', monospace;
+    font-size: 20px;
+    font-weight: 100;
+
+}
+
+h1 {
+    font-family:'Roboto Mono', monospace;
+    font-size: 20px;
+    font-weight: 1200;
+}
+
+li {
+    font-family:'Roboto Mono', monospace;
+    font-size: 20px;
+}
